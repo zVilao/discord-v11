@@ -1,6 +1,6 @@
 {
   "name": "discord-v11",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Discord Module",
   "main": "./src/index",
   "scripts": {
